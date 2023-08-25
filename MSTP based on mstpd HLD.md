@@ -76,6 +76,15 @@
     - [L3](#l3)
 - [References](#references)
 
+# Revision
+This section list all modified revisions.
+
+ 
+| Rev |   date	 |       Author      |                       Change Description                     |
+|:---:|:--------:|:-----------------:|:------------------------------------------------------------:|
+  V0.1|   202308 |     duanyk        |            draft version                                     |
+
+
 # Scope
 This document describes the High Level Design of Multiple Spanning Tree Protocol. 
 
