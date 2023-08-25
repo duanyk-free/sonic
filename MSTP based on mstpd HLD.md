@@ -756,7 +756,7 @@ User is expected to do a cold reboot when MSTP is running. If a user tries to pe
 # Memory Consumption
 This sub-section covers the memory consumption analysis for the new feature: no memory consumption is expected when the feature is disabled via compilation and no growing memory consumption while feature is disabled by configuration. 
 
-#Restrictions/Limitations  
+# Restrictions/Limitations  
 
 # Enable/Disable 
 The MSTP feature is disable default. it can be controled by FEATURE TABLE. 
