@@ -77,10 +77,10 @@
 - [References](#references)
 
 # Scope
-This document describes the High Level Design of Multiple Spanning Tree Protocol.
+This document describes the High Level Design of Multiple Spanning Tree Protocol. 
 
 # Background
-This HLD is based on the design provided by PVST HLD.
+This HLD is based on  open mstpd, not the design provided by PVST HLD.
 
 PVST HLD: https://github.com/sonic-net/SONiC/pull/386
 
